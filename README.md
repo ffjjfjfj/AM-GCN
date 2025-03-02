@@ -60,14 +60,13 @@ Key Arguments
 --epochs: Training epochs (default: 100).
 
 🧩 Model Architecture
-Position Calibration Module (PCM)
+
 Input: Resized facial images (3x14x14).
 
 Process: Vision Transformer encodes positional embeddings.
 
 Output: 512x14x14 feature maps.
 
-Continuous Attention Module (CAM)
 Layers: 90+ convolutional blocks with kernel sizes 1x1, 3x3, and stride variations.
 
 Purpose: Extracts multi-scale motion features from apex-frame differences.
