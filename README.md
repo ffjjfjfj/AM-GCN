@@ -75,8 +75,3 @@ Purpose: Extracts multi-scale motion features from apex-frame differences.
 Encoder Block
 Detailed structure of the encoder block.
 
-📊 Results
-Classes	Accuracy (%)	F1-Score
-3-class	78.6	0.742
-5-class	72.1	0.693
-📜 Citation
