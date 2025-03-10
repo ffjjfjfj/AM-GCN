@@ -2,7 +2,7 @@ This project was submitted to the journal（）, and the official submission web
 📖 Overview
 AM-GCN（Enhanced Microexpression Recognition through Action Unit-Driven Graph Convolution and Stacked Attention Mechanisms） is a novel two-branch neural network designed for Micro-Expression Recognition (MER). It integrates a AA Module and a SA Module  to enhance spatial-temporal feature learning. The model achieves state-of-the-art performance on the CASME II dataset for both 3-class and 5-class micro-expression classification. 
 
-Due to China Ministry of Science and Technologyunder  intellectual property protection, the training code will be uploaded after the paper is published。
+Due to China Ministry of Science and Technologyunder  intellectual property protection, the training code will be uploaded after the paper is published（CASME2_3.py、CASME2_5.py）。
 
 
 🛠 Installation
